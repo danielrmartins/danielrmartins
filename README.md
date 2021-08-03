@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on React.js and Next.js
 - 🌱 I’m currently learning Ruby on Rails
-- 📫 How to reach me: danielmartins10@gmail.com
 
 <div>
   <a href="https://github.com/danielrmartins">
