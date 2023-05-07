@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React.js and Next.js
+- 🔭 I’m currently working on React.js, React Native and Next.js
 - 🌱 I’m currently learning Ruby on Rails
 
 <div>
