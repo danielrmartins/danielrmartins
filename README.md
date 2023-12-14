@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React.js, React Native and Next.js
-- 🌱 I’m currently learning Ruby on Rails
+- 🔭 I’m currently working on React.js, React Native, Next.js, Ruby on Rails.
+- 🌱 I’m currently learning Node.js.
 
 <div>
   <a href="https://github.com/danielrmartins">
